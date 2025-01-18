@@ -68,7 +68,7 @@
     background-color: rgb(23,124,229);
     position: absolute;
     top: 50%;
-    left: -40%;
+    margin-left: -30px;
  }
  .btncont{
     width: 100%;
@@ -88,4 +88,5 @@
     margin: 5px;
     cursor: pointer;
     border-radius: 6px;
+    font-size: 20px;
  }
